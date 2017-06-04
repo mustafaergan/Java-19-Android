@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.vektorel.listleme.Menu"
+    >
+    <item android:title="@string/ekranaYaz" android:onClick="ekranaYaz"/>
+    <item android:title="@string/titleYaz" android:onClick="titleYaz"/>
+</menu>

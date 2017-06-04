@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Listleme</string>
+    <string name="bununAdi">Bunun Adi Olsun</string>
+    <string name="ekranaYaz">Ekrana Bas</string>
+    <string name="titleYaz">Title Degistir</string>
+
+    <string-array name="iller">
+        <item>Gaziantep</item>
+        <item>Ankara</item>
+        <item>Urfa</item>
+        <item>Trabzon</item>
+    </string-array>
+
+</resources>
